@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umair Raza</h1>
 <h3 align="center">A passionate Software Tester from Pakistan</h3>
 
-
+<img align="right" alt="Software Testing" width="400" scr="https://github.com/mrumair94/mrumair94/blob/main/index-meta.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrumair94&label=Profile%20views&color=0e75b6&style=flat" alt="mrumair94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrumair94" alt="mrumair94" /></a> </p>
